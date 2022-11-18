@@ -5,8 +5,10 @@ Dr. Bing Li
 
 Assistant Professor
 
-COURSE DESCRIPTION
+COURSE DESCRIPTION:
+
 Intelligent ADAS (advanced driver-assistance systems) and autonomous vehicles are running by advanced softwares, from hardware drivers, operating systems, middleware platforms, machine intelligence, high-level tasks, to human-machine interface. Efficient and robust computing are becoming more and more critical for the functionality and safety of the system, and different levels of simulation are also essential solutions for software or whole system verification under various environments. In addition, the software design of autonomous mobile robots and vehicles requires an effective autonomy for modularized and robust software system design with simulation integration for verification.
+
 This course is designed to provide knowledge in the design and implementation of CPU/GPU computing, AI computing and simulation technologies for autonomous robots or vehicles software systems. Through extensive examples, case and paper studies, and project design, the students can obtain hands-on computing, high-performance computing (HPC), deep learning computing, and simulation skills to allow them to build software modules, and verification systems for ADAS or autonomous robots or vehicles.
 
 ##COURSE OBJECTIVES:
@@ -59,17 +61,7 @@ Course Final Project (using Palmetto Cluster, CoLab, or your own computer)
 
 ##Generic high-performance computing (HPC)
 • Computing and simulation for autonomous robots/vehicles
-• Computing platforms of homework/projects:
-
-
-##Installations:
-• Clemson Palmetto Cluster: https://www.palmetto.clemson.edu/palmetto/
-– Local computing (GPU is NOT compulsory for your local computer): 
-• Python or C++ (If only with Matlab experience, maybe you choose/learn Python)
-• Autonomy Simulation software, choose at your discretion:
-– Windows: Matlab, LGSVL, CARLA
-– Linux (i.e., Ubuntu): Matlab, LGSVL, CARLA, ROS-Gazebo/V-REP, 
-
+• Computing platforms of homework/projects
 
 ##Course Info You follow up
 
@@ -77,6 +69,16 @@ Course Final Project (using Palmetto Cluster, CoLab, or your own computer)
 – Comprehensive aspects in the context of autonomous robot/vehicle
 – Nvidia GPU Accelerated Computing with Python
 – Nvidia Learning Kit: GPU, Deep Learning, Robotics
+
+##Installations:
+
+• Clemson Palmetto Cluster: https://www.palmetto.clemson.edu/palmetto/
+
+• Python or C++ (If only with Matlab experience, maybe you choose/learn Python)
+
+• Autonomy Simulation software, choose at your discretion:
+– Windows: Matlab, LGSVL, CARLA
+– Linux (i.e., Ubuntu): Matlab, LGSVL, CARLA, ROS-Gazebo/V-REP
 
 ##Reference Materials:
 
