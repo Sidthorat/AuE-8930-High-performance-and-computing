@@ -80,6 +80,10 @@ Course Final Project (using Palmetto Cluster, CoLab, or your own computer)
 – Windows: Matlab, LGSVL, CARLA
 – Linux (i.e., Ubuntu): Matlab, LGSVL, CARLA, ROS-Gazebo/V-REP
 
+• Robotic Operating Systems(ROS), Gazebo Simulations
+
+• MATLAB 2022b
+
 ##Reference Materials:
 
 All concepts will be covered in class lectures, and in the lecture slides. Course notes and some reading materials will be placed on Canvas. However, we also recommend the following materials as good optional references:
